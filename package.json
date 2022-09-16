@@ -4,7 +4,7 @@
   "description": "a client-side browser-only tool for editing dependency trees in CoNLL-U and VISL formats",
   "main": "client/index.js",
   "dependencies": {
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.3.1",
     "canvas2svg": "^1.0.16",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
